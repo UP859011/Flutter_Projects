@@ -1,0 +1,4 @@
+#Thu Jun 17 09:04:11 BST 2021
+base.0=C\:\\Users\\alexa\\OneDrive\\Documents\\Flutter_Projects\\dicee-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
